@@ -27,15 +27,9 @@ The Django Todo App is a web application that helps users manage their tasks eff
 
 To set up the Django Todo App on your local machine, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/django-todo-app.git
-   ```
+1. Clone the repository
 
-2. Navigate to the project directory:
-   ```bash
-   cd django-todo-app
-   ```
+2. Navigate to the project directory
 
 3. Create a virtual environment (optional but recommended):
    ```bash
@@ -65,5 +59,5 @@ To set up the Django Todo App on your local machine, follow these steps:
 1. Create a new task by clicking on the "Create Task" button and filling out the form.
 2. View the list of tasks on the homepage.
 3. Click on a task to view its details.
-4. Update a task by clicking on the "Edit" button and modifying the form.
+4. Update a task by clicking on the "Update" button and modifying the form.
 5. Delete a task by clicking on the "Delete" button and confirming the action.
